@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheVampireProgrammer
-- 👀 I’m play in Halo 3
+- 👀 I’m a Halo 3 fan
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on: Nothing. I program by myself.
 - 📫 How to reach me: Please don't. I just like to be an independent programmer. If you want to learn more about one of my respitories, ask your question about it in the issues section of it.
